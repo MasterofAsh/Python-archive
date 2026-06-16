@@ -1,0 +1,5 @@
+print("Hello World")
+print(5)
+print("bye")
+print(17 * 13)
+print("my name is abdullah \n I am 17 years old")
